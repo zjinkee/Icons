@@ -2,8 +2,85 @@
     "name": "策略图标",
     "icons": [
         {
-            "name": "Quan",
-            "url": "https://github.com/zjinkee/quantumult/blob/main/icon/png/IMG_Quan.PNG?raw=true"
+            "name": "quan",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/quan.png"
+        },
+        {
+            "name": "telegram",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/telegram.png"
+        },
+        {
+            "name": "spotify",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/spotify.png"
+        },
+        {
+            "name": "speedtest",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/speedtest.png"
+        },
+        {
+            "name": "round",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/round.png"
+        },
+        {
+            "name": "reject",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/reject.png"
+        },
+        {
+            "name": "proxy",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/proxy.png"
+        },
+        {
+            "name": "openai",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/openai.png"
+        },
+        {
+            "name": "google",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/google.png"
+        },
+        {
+            "name": "global",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/global.png"
+        },
+        {
+            "name": "gemini",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/gemini.png"
+        },
+        {
+            "name": "emby",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/emby.png"
+        },
+        {
+            "name": "copilot",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/copilot.png"
+        },
+        {
+            "name": "bilibili",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/bilibili.png"
+        },
+        {
+            "name": "auto",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/auto.png"
+        },
+        {
+            "name": "apple",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/apple.png"
+        },
+        {
+            "name": "sg",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/sg.png"
+        },
+        {
+            "name": "jp",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/jp.png"
+        },
+        {
+            "name": "hk",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/hk.png"
+        },
+        {
+            "name": "us",
+            "url": "https://raw.githubusercontent.com/zjinkee/Icons/refs/heads/main/icon/us.png"
         }
+
     ]
 }
